@@ -1,0 +1,51 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h1{
+    color: black;
+}
+p{
+    color: rgb(0, 0, 0);
+}
+p{
+    font-size: 20px;
+}
+.color{
+    color: rgb(96, 208, 236);
+}
+.first-section{
+    display: flex;
+}
+
+
+
+.hire-button
+{
+    text-decoration: none;
+ background-color: orange;
+color: rgba(0, 2, 102, 0.89);
+padding: 5px 5px;
+border-radius: 5px;
+font-weight: 700;
+font-style: initial;
+}
+.upper-portion{
+    width: 50%;
+padding-left: 5%;
+margin-right: 10px;
+
+}
+.upper-portion-img{
+    padding-top: 5%; 
+}
+.year-color{
+    color: cadetblue;
+}
+h2{
+    text-align: center;
+    font-size: 37px;
+}
