@@ -56,4 +56,15 @@ h2{
 border-radius: 10px;
 }
 
+#il-img-text{
+    margin: 2% 2% 2% 2%;
+    padding: 2% 2%;
+    box-shadow: 5px 5px 20px darkcyan;
+border-radius: 5px;
+}
+
+.h2-header{
+    font-size: 30px;
+    color: black;
+}
 
