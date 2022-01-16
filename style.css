@@ -19,11 +19,11 @@ p{
 .color{
     color: rgb(96, 208, 236);
 }
+
 .first-section{
     display: flex;
    
 }
-
 #upper-img{
     max-height: 450px;
     max-width: 450px;
@@ -44,7 +44,6 @@ font-style: initial;
     width: 50%;
 padding-left: 5%;
 margin-right: 10px;
-
 }
 .upper-portion-img{
     padding-top: 5%; 
@@ -65,6 +64,7 @@ border-radius: 10px;
 .second-section{
     max-width: 100%;
     max-height: 100%;
+display: flex;
 }
 .il-img-text{
     margin: 2% 2% 2% 2%;
@@ -88,9 +88,6 @@ font-size: 14px;
     font-size: 30px;
     color: black;
 }
-.second-section{
-    display: flex;
-}
 .ts{
     display: flex;
 }
@@ -100,9 +97,11 @@ font-size: 14px;
     max-height: 400px;
     max-width: 400px;
 }
-.third-section{
+.flex-container{
     display: flex;
 }
+
+
 .gk{
     margin-left: 200px;
     margin-top: 100px;
