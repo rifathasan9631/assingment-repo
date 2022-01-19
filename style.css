@@ -112,6 +112,15 @@ h3{
     margin-top: 100px;
     margin-right: 100px;
 }
-
+.doc-link
+{
+     text-decoration: none;
+    background-color: rgba(241, 115, 115, 0.753);
+   color: rgba(0, 4, 248, 0.89);
+   padding: 5px 5px;
+   border-radius: 5px;
+   font-weight: 700;
+   font-style: initial;
+}
 
 
