@@ -112,6 +112,13 @@ h3{
     margin-top: 100px;
     margin-right: 100px;
 }
+
+.fourth-container{
+    display: flex;
+    flex-direction: row;
+
+}
+
 .doc-link
 {
      text-decoration: none;
@@ -122,5 +129,15 @@ h3{
    font-weight: 700;
    font-style: initial;
 }
+.vai-log{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 200px;
+    max-height: 400px;
+    max-width: 400px;}
 
-
+.doc-text{
+    margin: 10px 10px;
+    padding: 5px 5px;
+    text-align: left;
+}
